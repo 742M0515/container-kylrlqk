@@ -1,3 +1,15 @@
+# v0.0.2 (Thu Dec 28 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Add files via upload ([@742M0515](https://github.com/742M0515))
+
+#### Authors: 1
+
+- tazmosis ([@742M0515](https://github.com/742M0515))
+
+---
+
 # v0.0.1 (Thu Dec 28 2023)
 
 :tada: This release contains work from a new contributor! :tada:
