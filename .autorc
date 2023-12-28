@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "742M0515",
+  "repo": "container-kylrlqk",
+  "name": "742M0515",
+  "email": "atr420@yahoo.com",
+}
